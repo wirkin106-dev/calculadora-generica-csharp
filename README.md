@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧮 Calculadora Genérica - ITLA
 
 Aplicación de consola en C# que realiza operaciones matemáticas (suma, resta, multiplicación y división) sobre una lista genérica de números, utilizando genéricos, delegados y control de excepciones.
@@ -109,3 +110,7 @@ Todos los errores se muestran en consola con un mensaje claro en color rojo, sin
 
 ## 👤 Autor
 **wirkin106-dev** — Instituto Tecnológico de las Américas (ITLA)
+=======
+# calculadora-generica-csharp
+Aplicación de consola en C# que realiza operaciones matemáticas (suma, resta, multiplicación y división) sobre una lista genérica de números, utilizando genéricos, delegados y control de excepciones.
+>>>>>>> 4353f1fbadfcaf7413adcafea8bb349ceb00e9e3
